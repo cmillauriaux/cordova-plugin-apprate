@@ -2,3 +2,5 @@
 .DS_Store
 tmp
 AppRateDemoProject
+/nbproject/private/
+/nbproject/
