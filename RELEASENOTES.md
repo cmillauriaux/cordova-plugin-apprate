@@ -30,6 +30,6 @@
 *	Code refactoring
 
 ### 1.1.0 (Sep 23, 2014) ###
-*	Issue-9: Check app version and show dialog again (for iOS)
-*	Issue-23: Get application title from native app
+*	ISSUE-9: Check app version and show dialog again (for iOS)
+*	ISSUE-23: Get application title from native app
 *	Added Release Notes
